@@ -1,5 +1,5 @@
 {
-  "name": "React09",
+  "name": "ReactTemplate",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -37,13 +37,10 @@
     "react-dom": "^17.0.1",
     "react-favicon": "0.0.18",
     "react-hot-loader": "^4.13.0",
-    "react-markdown": "^5.0.3",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
     "react-scrollmagic": "^2.2.0",
     "remark-loader": "^2.0.0",
-    "three": "^0.124.0",
-    "tone": "^14.7.58",
     "webpack": "^5.10.0",
     "word-list-json": "^0.2.0"
   }

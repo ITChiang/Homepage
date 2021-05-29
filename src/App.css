@@ -4,14 +4,6 @@ body {
   font-family: 'Source Sans Pro', monospace,"Gill Sans", sans-serif;
 }
 
-.App {
-  width: 90vw;
-  margin: auto;
-  margin-bottom: -20px;
-  padding-bottom: 20px;
-  padding: 1.25rem 1rem;
-}
-
 .container {
   margin-top: 3rem;
 }

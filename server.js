@@ -12,5 +12,3 @@ app.get('*',(req,res)=>{
 })
 app.listen(port);
 console.log('server started!');
-console.log("dirname:",__dirname);
-console.log("filename:",__filename);
